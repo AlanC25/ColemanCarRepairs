@@ -1,0 +1,7 @@
+Mobile app for coleman car repairs. Developed in Android Studio.
+Includes functionalities:
+  1. Email for estimate: click this button to open email app with Subject and Preview message typed out, and coleman car repairs set as receiver. 
+  (note: fake email address used for now to preotect coleman car repairs)
+  2. Inventory of available towbars: brings user to list of towbars currently available.
+  3. Call/Message Coleman Car Repairs: brings0 user to screen where theyt can choose to call or message, this will open either the users dial pad with coleman car repairs number or their messages with coleman car repairs set as the send number. 
+  (note: fake number used for now to protect coleman car repairs)
