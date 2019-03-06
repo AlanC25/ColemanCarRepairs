@@ -5,3 +5,5 @@ Includes functionalities:
   2. Inventory of available towbars: brings user to list of towbars currently available.
   3. Call/Message Coleman Car Repairs: brings0 user to screen where theyt can choose to call or message, this will open either the users dial pad with coleman car repairs number or their messages with coleman car repairs set as the send number. 
   (note: fake number used for now to protect coleman car repairs)
+
+Check out project and import to android studio to run project.
