@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coleman Car Repairs</string>
+    <string name="action_settings">Settings</string>
+    <string name="contact_us">Contact us!</string>
+    <string name="click_here_to_see_our_collection_of_towbars">Click here to see our collection of towbars!</string>
+    <string name="upload_an_image_and_receive_an_estimate">Upload an image and receive an estimate.</string>
+    <string name="welcome_to_coleman_car_repairs_we_hope_you_find_what_you_re_looking_for">Welcome to Coleman Car Repairs! We hope you find what you\'re looking for.</string>
+    <string name="logo_for_coleman_car_repairs">logo for coleman car repairs</string>
+    <string name="call_us">Call us!</string>
+    <string name="get_in_contact_with_us_if_you_have_any_queries">Get in contact with us if you have any queries.</string>
+    <string name="send_us_a_message">Send us a message!</string>
+    <string name="or_call_us_here">Or call us here!</string>
+    <string name="you_can_send_us_a_message_here">You can send us a message here!</string>
+    <string name="textview">TextView</string>
+    <string name="this_is_our_selection_of_towbars_please_get_in_touch_if_you_do_not_see_what_you_are_looking_for_as_we_may_be_able_to_acquire_it_for_you">This is our selection of towbars. Please get in touch if you do not see what you are looking for, as we may be able to acquire it for you.</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    app:srcCompat="@drawable/logo"
+    android:id="@+id/imageView2"
+    android:contentDescription="@string/logo_for_coleman_car_repairs"
+        android:layout_weight="0.52" />
+
+    <TextView
+        android:text="@string/get_in_contact_with_us_if_you_have_any_queries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+    <TextView
+        android:text="@string/you_can_send_us_a_message_here"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5" />
+
+    <Button
+        android:text="@string/send_us_a_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/messagebutton"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:onClick="onClickButton" />
+
+    <TextView
+        android:text="@string/or_call_us_here"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4" />
+
+    <Button
+        android:text="@string/call_us"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/callbutton1"
+        android:onClick="onClickButton"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+</LinearLayout>
